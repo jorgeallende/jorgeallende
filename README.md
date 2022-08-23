@@ -4,7 +4,11 @@
 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgeallende&color=blue" alt="Profile views" /> </p>
 
-<img align="right" src="https://raw.githubusercontent.com/gist/jorgeallende/dbb02401c964c20b7a9cc32229531648/raw/7d18bb9957a1d4a351fa20d260797c3ec50f9d3b/githubcard.svg"/>
+<img 
+align="right" 
+src="https://raw.githubusercontent.com/gist/jorgeallende/dbb02401c964c20b7a9cc32229531648/raw/7d18bb9957a1d4a351fa20d260797c3ec50f9d3b/githubcard.svg"
+height="500px"
+/>
 
 <img align="right" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png"/>
 
