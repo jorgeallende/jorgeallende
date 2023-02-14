@@ -10,7 +10,7 @@ src="https://raw.githubusercontent.com/gist/jorgeallende/dbb02401c964c20b7a9cc32
 height="500px"
 />
 
-<img align="right" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png"/>
+<img align="right" src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png"/>
 
 <h2> 
   Sobre mim
