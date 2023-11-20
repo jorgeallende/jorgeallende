@@ -13,19 +13,17 @@ height="500px"
 <img align="right" src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png"/>
 
 <h2> 
-  Sobre mim
-  <img height="20px" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/speech-balloon_1f4ac.png"/>
+  Sobre mim 💬
 </h2>
 
-- Estagiário em desenvolvimento web na Prefeitura de Mossoró. 
-- Experiência passada em mercado com desenvolvimento web.
+- Programador junior em desenvolvimento web e mobile na Prefeitura de Mossoró. 
+- Experiências passadas em mercado com desenvolvimento web.
 - Sempre aprendendo uma coisa nova.
 
 <br></br>
 
 <h2> 
-  TechStack 
-  <img height="20px" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/wrench_1f527.png"/> 
+  TechStack 🧰
 </h2>
 
 <h4>Front-end</h4>
@@ -53,8 +51,7 @@ height="500px"
 <br></br>
 
 <h2> 
-  Analytics
-  <img height="20px" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/chart-increasing_1f4c8.png"/> 
+  Analytics 📊
 </h2>
 
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeallende&layout=compact&theme=vision-friendly-dark" alt="jorgeallende's most languages"/>
@@ -63,8 +60,7 @@ height="500px"
 <br></br>
 
 <h2> 
-  Social
-  <img height="20px" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/laptop_1f4bb.png"/> 
+  Social 🫂
 </h2>
 
 
