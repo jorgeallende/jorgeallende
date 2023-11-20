@@ -1,6 +1,5 @@
 <h2> 
-  Prazer, Jorge Allende 
-  <img height="35px" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png"/>
+  Prazer, Jorge Allende 👋🏿
 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgeallende&color=blue" alt="Profile views" /> </p>
 
@@ -42,6 +41,9 @@ height="500px"
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
+![RubyOnRails](https://img.shields.io/badge/-Ruby%20On%20Rails-05122A?style=flat&logo=rubyonrails)&nbsp;
 
 <h4>Outras skills</h4>
 
