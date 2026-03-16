@@ -15,7 +15,7 @@ height="500px"
   Sobre mim 💬
 </h2>
 
-- Programador junior em desenvolvimento web e mobile na Prefeitura de Mossoró. 
+- Programador pleno em desenvolvimento web e mobile na Prefeitura de Mossoró. 
 - Experiências passadas em mercado com desenvolvimento web.
 - Sempre aprendendo uma coisa nova.
 
